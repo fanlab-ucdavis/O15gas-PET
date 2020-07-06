@@ -1,0 +1,9 @@
+
+data.csv - data for the scripts
+cmro.do  - script for analyzing the CMRO data
+oef.do   - script for analyzing the OEF data
+added.do - script for additional analyses
+
+Note that subdirectories for the graphs need to be created:
+"graphs_cmro" and "graphs_oef".
+
